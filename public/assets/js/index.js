@@ -147,7 +147,6 @@ const renderNoteList = async (notes) => {
 
       liEl.append(delBtnEl);
     }
-
     return liEl;
   };
 
